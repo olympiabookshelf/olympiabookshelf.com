@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tản mạn chuyện đọc sách
-date:   2020-08-09 06:18:25 +0700
+date:   2020-08-08 06:18:25 +0700
 author: Khai Tâm
 categories: reading
 ---
