@@ -29,6 +29,7 @@ plugins:
 minima:
   skin: classic
 
+timezone: Asia/Ho_Chi_Minh
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
