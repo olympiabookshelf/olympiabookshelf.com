@@ -3,7 +3,8 @@ layout: post
 title:  Totto-Chan bên cửa sổ
 date:   2020-08-10 20:18:25 +0700
 author: Linh Khuê
-categories: book-review bookshelf
+image: totto-chan-nha-nam.png
+categories: bookshelf intro
 ---
 ###### “Xin được dành tặng cuốn sách này cho người thầy đã khuất: thầy Kobayashi Sosaku.
 ###### Đây là câu chuyện hoàn toàn có thật, kể về cô bé theo học tại một trường tiểu học có thật ở Tokyo vào thời điểm chiến tranh thế giới thứ II sắp kết thúc.”
